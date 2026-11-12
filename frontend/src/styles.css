@@ -1,0 +1,9 @@
+/* Estilos globales */
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background-color: #f8f9fa;
+}
